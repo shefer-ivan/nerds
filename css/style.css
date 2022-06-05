@@ -1137,6 +1137,10 @@ img {
   background-color: var(--basic-white);
 }
 
+.modal-show {
+  display: block;
+}
+
 .modal-close {
   position: absolute;
   width: 21px;
